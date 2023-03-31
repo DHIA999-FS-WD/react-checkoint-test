@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/DHIA999-FS-WD/react-checkoint-test.git/static/css/main.44f8b8b5.css",
+    "main.js": "/DHIA999-FS-WD/react-checkoint-test.git/static/js/main.4f7733bc.js",
+    "static/js/787.254aa2da.chunk.js": "/DHIA999-FS-WD/react-checkoint-test.git/static/js/787.254aa2da.chunk.js",
+    "static/media/welcom.svg": "/DHIA999-FS-WD/react-checkoint-test.git/static/media/welcom.033160f37b973e746b2c947e5c098e1e.svg",
+    "static/media/login.svg": "/DHIA999-FS-WD/react-checkoint-test.git/static/media/login.2868307867a3312133109114f237d8b9.svg",
+    "static/media/singn up.svg": "/DHIA999-FS-WD/react-checkoint-test.git/static/media/singn up.88af3e30ea06c4e4e4b5afb115f8fdff.svg",
+    "index.html": "/DHIA999-FS-WD/react-checkoint-test.git/index.html",
+    "main.44f8b8b5.css.map": "/DHIA999-FS-WD/react-checkoint-test.git/static/css/main.44f8b8b5.css.map",
+    "main.4f7733bc.js.map": "/DHIA999-FS-WD/react-checkoint-test.git/static/js/main.4f7733bc.js.map",
+    "787.254aa2da.chunk.js.map": "/DHIA999-FS-WD/react-checkoint-test.git/static/js/787.254aa2da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.4f7733bc.js"
+  ]
+}
